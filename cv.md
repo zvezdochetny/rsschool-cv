@@ -22,6 +22,15 @@ SwiftUI basics
 
 ----------------------
 ### Education
+**Artyom Gorbunov' Design Bureau**  
+Digital Product Design  
+2021 — up to the present 
+
+
+**HSE Design School**  
+Digital Product Design  
+2019–2020
+
 **Bauman Moscow State Technical University**  
 Bachelor's degree in Optics and Laser techonologies  
 2015–2019
@@ -29,7 +38,7 @@ Bachelor's degree in Optics and Laser techonologies
 ---------------------------------
 ### Languages
 English — B2–C1  
-Russian — native  
+Russian — native speaker  
 Turkish — A1  
 
 ----------------------------------
