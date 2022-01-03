@@ -15,10 +15,10 @@ I have no experience as a developer, but I have experience as a designer both in
 -------------------------
 
 ### Skills
-HTML basics
-CSS basics
-Git basics
-SwiftUI basics
+HTML basics  
+CSS basics  
+Git basics  
+SwiftUI basics  
 
 ----------------------
 ### Education
