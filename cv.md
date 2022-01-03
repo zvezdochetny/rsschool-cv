@@ -36,6 +36,14 @@ Bachelor's degree in Optics and Laser techonologies
 2015–2019
 
 ---------------------------------
+### Swift kata from Codewars  
+```
+func multiply(_ a: Double, _ b: Double) -> Double {
+    return a * b
+}
+```  
+
+---------------------------------
 ### Languages
 English — B2–C1  
 Russian — native speaker  
